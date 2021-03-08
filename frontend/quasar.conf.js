@@ -32,7 +32,6 @@ module.exports = configure((ctx) => ({
     "sentry",
     "i18n",
     "axios",
-    "fontawesome-pro",
     "routeGuards",
     "capacitor",
   ],
